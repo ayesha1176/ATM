@@ -1,1 +1,1 @@
-# project-6-ATM-machine
+# atm-project
